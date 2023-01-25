@@ -17,6 +17,7 @@
     "expo-three-orbit-controls": "^2.0.0",
     "react": "^18.0.0-rc.3",
     "react-native": "0.71.1",
+    "react-native-htmlview": "^0.16.0",
     "react-native-webview": "^11.26.0",
     "three": "^0.148.0"
   },
@@ -28,6 +29,7 @@
     "@tsconfig/react-native": "^2.0.2",
     "@types/jest": "^29.2.1",
     "@types/react": "^18.0.24",
+    "@types/react-native-htmlview": "^0.16.0",
     "@types/react-test-renderer": "^18.0.0",
     "@types/three": "^0.148.1",
     "babel-jest": "^29.2.1",
